@@ -1,0 +1,78 @@
+/*
+Icon classes can be used entirely standalone. They are named after their original file names.
+
+Example usage in HTML:
+
+`display: block` sprite:
+<div class="icon-home"></div>
+
+To change `display` (e.g. `display: inline-block;`), we suggest using a common CSS class:
+
+// CSS
+.icon {
+  display: inline-block;
+}
+
+// HTML
+<i class="icon icon-home"></i>
+*/
+.icon-attack-1-cvk85joz {
+  background-image: url(sprite.png);
+  background-position: 0px -384px;
+  width: 768px;
+  height: 128px;
+}
+.icon-attack-2-ih8qehgq {
+  background-image: url(sprite.png);
+  background-position: -1024px -128px;
+  width: 512px;
+  height: 128px;
+}
+.icon-attack-3-rfhizinp {
+  background-image: url(sprite.png);
+  background-position: -1024px -256px;
+  width: 384px;
+  height: 128px;
+}
+.icon-dead-ppprwml8 {
+  background-image: url(sprite.png);
+  background-position: 0px -512px;
+  width: 384px;
+  height: 128px;
+}
+.icon-hurt-z7yceteg {
+  background-image: url(sprite.png);
+  background-position: -384px -512px;
+  width: 256px;
+  height: 128px;
+}
+.icon-idle-omdjwxrs {
+  background-image: url(sprite.png);
+  background-position: -768px -384px;
+  width: 768px;
+  height: 128px;
+}
+.icon-jump-2mw7r3ja {
+  background-image: url(sprite.png);
+  background-position: 0px 0px;
+  width: 1536px;
+  height: 128px;
+}
+.icon-run-wujnmrpw {
+  background-image: url(sprite.png);
+  background-position: 0px -128px;
+  width: 1024px;
+  height: 128px;
+}
+.icon-shield-im4tp3hh {
+  background-image: url(sprite.png);
+  background-position: -640px -512px;
+  width: 256px;
+  height: 128px;
+}
+.icon-walk-8yyxuuhs {
+  background-image: url(sprite.png);
+  background-position: 0px -256px;
+  width: 1024px;
+  height: 128px;
+}
