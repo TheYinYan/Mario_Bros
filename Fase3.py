@@ -264,6 +264,9 @@ def input(key):
 
         player.visible = True
 
+        enemy.position = (10,7)
+        enemy2.position = (-10,7)  
+
         game_over.visible = False
         game_over2.visible = False
         is_game_over = False
